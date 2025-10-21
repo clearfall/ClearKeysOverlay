@@ -3,7 +3,7 @@
 A slick, transparent **WASD + SHIFT + SPACE** visualizer made with **PyQt5**, perfect for stream overlays or gameplay showcases.  
 No border, no clutter — just your keys lighting up when you move.
 
-![Preview](4e75cdfe-070e-4326-ab9a-d6a3026999fa.png)
+![Preview]([4e75cdfe-070e-4326-ab9a-d6a3026999fa.png](https://github.com/clearfall/ClearKeysOverlay/blob/main/preview.png))
 
 ---
 
