@@ -22,3 +22,9 @@ Then install the required modules:
 
 ```bash
 pip install PyQt5 pynput
+
+---
+   [ W ]
+[ A ][ S ][ D ]
+[SHIFT][ SPACE ]
+
